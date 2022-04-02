@@ -13,4 +13,6 @@ Pengolahan data tersebut menggunakan
 Untuk kebutuhan perusahaan dalam pengambilan keputusan pada strategi yang akan mereka jalankan.
 
 Framework yang saya jalankan yaitu :
+
+
 ![Framework Project2](https://user-images.githubusercontent.com/100057330/161379857-d389cf99-b726-4af1-85bf-16a9eef59cab.jpg)
