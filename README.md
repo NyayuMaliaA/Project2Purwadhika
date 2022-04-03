@@ -3,9 +3,9 @@ Hai perkenalkan saya student JCDSVL Nyayu Malia di Purwadhika tahun 2022!
 
 Judul Project : Chapstone 2 - Data Analysis (Project 2 Purwadhika)
 
-Project kali ini saya menganalisis database Northwind dengan fokus customers 
+Project kali ini saya menganalisis database Northwind dengan fokus customers untuk menganalisis persebaran kostumer mereka sudah seberapa luas negara jangkauan perusahaan untuk dapat menjual produk dengan penjualan(omzet) yang didapat
 
-Pengolahan data tersebut menggunakan 
+Pengolahan data tersebut menggunakan :
 - SQL
 - Data Visualization
 - Statistics 
