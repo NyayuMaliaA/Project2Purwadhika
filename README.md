@@ -7,6 +7,7 @@ Project kali ini saya menganalisis database Northwind dengan fokus customers unt
 
 Pengolahan data tersebut menggunakan :
 - SQL
+- Data Manipulation
 - Data Visualization
 - Statistics 
 
