@@ -1,5 +1,4 @@
 # Project2Purwadhika
-Hai perkenalkan saya student JCDSVL Nyayu Malia di Purwadhika tahun 2022!
 
 Judul Project : Chapstone 2 - Data Analysis (Project 2 Purwadhika)
 
